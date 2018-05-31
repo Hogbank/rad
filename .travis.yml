@@ -3,6 +3,6 @@ deploy:
   provider: heroku
   api_key:
     secure: u99jZa+rwftm5X+IzX+8S7CAiUXCnjbTNdNvz+1hE1yKPy7YjAxm9e+LJFJ4+kw7YjPsjrrw+MZRIjONHmlHIqPgxH4SNZxQcqDhQObXOUwVuUtwU4qU647iDJPsmLshEgICGF4eRhcgyEOeacLp5BHgLRqiII2dFICvwJbTvmUNh6MPwY70sORIFD++4EXPCdOuFL99ivmUu2tJByKNyOIrPJ937bg5o1U20lWPMAPsYcVSzHfUAih4qdmX/bGvrD1Pd5sdl9BMWXA9aSVwbhbr9LHkH+dUbYHtsNsnryj1Hl4u8nVJRQQ01zuIE+pcMH4JFNdFNu528C0j6fdV324TJJZ00bYkRFcSp/Dx3MFcg7asH+J0Jzd9+I0r5XvFZEuQDW1Ujr0rpUUCI4TtYD3dY6kFymmIuqbdxBCVsP9pGCKP1W2B+LtRpd8EeTjcHOR02LuY9t0O4UQdolCISmslYEcrqQeNRWW6BaDq4dyNQmmbMZgFsRxyp30Wrx+qSdHGlaNLNQwosFNSMKbjeQ2JE/3o0Z+xRDWwtPQJd8aVv7lOLsH1rldIZeZS2/YenEAwsuEPLMoiYNAr8diWDkGhqEmuph55m2BRUbrtllB9iKNaY4v4LbeGza+7zCkIBcHyeFAgyUoCRCqaKphsNu50Yb/9csF/HVlBJye98Fg=
-  app: rad
+  app: rpg-attack-descriptions
   on:
     repo: Hogbank/rad
